@@ -1,0 +1,7 @@
+M&Ms::2.50::0
+Reese's::1.50::17
+Twix::1.00::18
+Skittles.::1.10::9
+Sour Patch::2.00::7
+Swedish Fish::2.30::17
+Goldfish::3.00::20
